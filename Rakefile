@@ -18,7 +18,7 @@ Jeweler::Tasks.new do |gem|
   gem.homepage = "http://github.com/willpearse/data_frame"
   gem.license = "MIT"
   gem.summary = %Q{Load and manipulate data into Ruby}
-  gem.description = %Q{DataFrame class (a la R) for working with data in Ruby. Wrapper for loading spreadsheet data through UniSheet. Please contact the author for a citation.}
+  gem.description = %Q{DataFrame class (a la R) for working with data in Ruby. Wrapper for loading spreadsheet data through UniSheet. Use this (http://dx.doi.org/10.5281/zenodo.10772) citation.}
   gem.email = "wdpearse@umn.edu"
   gem.authors = ["Will Pearse"]
   # dependencies defined in Gemfile
